@@ -1,0 +1,9 @@
+geodaisy
+geojson
+matplotlib
+numpy
+Pillow
+pandas
+shapely
+tqdm
+
